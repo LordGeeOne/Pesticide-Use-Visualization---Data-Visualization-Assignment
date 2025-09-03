@@ -67,3 +67,18 @@ section = st.sidebar.selectbox(
     ]
 )
 
+# -----------------------
+# Section: Regional Trends
+# -----------------------
+if section == "Regional Trends":
+    st.subheader("📈 Regional Trends")
+    regional = filtered_data.groupby("Year")["Kg_per_ha"].mean().reset_index()
+    fig = px.line(
+        regional, x="Year", y="Kg_per_ha",
+        title="Average Pesticide Intensity (kg/ha)",
+        height=500
+    )
+    fig.update_layout(title_font_size=20, xaxis_title_font_size=14, yaxis_title_font_size=14)
+    st.plotly_chart(fig, use_container_width=True)
+    st.write("**Insight:** Shows the average pesticide intensity across selected countries over time.")
+
