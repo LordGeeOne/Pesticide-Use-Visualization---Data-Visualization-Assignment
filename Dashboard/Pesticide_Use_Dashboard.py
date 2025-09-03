@@ -106,3 +106,45 @@ elif section == "Country Comparison":
     st.plotly_chart(fig, use_container_width=True)
     st.write("**Insight:** Compare pesticide trends among selected countries.")
 
+# -----------------------
+# Section: Overview: Average vs Latest Year
+# -----------------------
+elif section == "Overview: Average vs Latest Year":
+    st.subheader("🌍 Overview: Average vs Latest Year")
+    fig3, (ax1, ax2) = plt.subplots(1, 2, figsize=(21, 8))
+
+    avg_per_country = filtered_data.groupby("Country")["Kg_per_ha"].mean().sort_values()
+    ax1.barh(
+        avg_per_country.index,
+        avg_per_country.values,
+        color=[country_colors.get(c, "#666666") for c in avg_per_country.index]
+    )
+    ax1.set_xlabel("Average Pesticide Use (kg/ha)", fontsize=14)
+    ax1.set_ylabel("Country", fontsize=14)
+    ax1.set_title("Average Pesticide Use Intensity by Country", fontsize=16, fontweight="bold")
+    ax1.tick_params(axis='x', labelsize=12)
+    ax1.tick_params(axis='y', labelsize=12)
+    ax1.grid(axis="x", alpha=0.3)
+    for i, (country_name, value) in enumerate(avg_per_country.items()):
+        ax1.text(value + 0.05, i, f"{value:.2f}", va="center", fontsize=12)
+
+    latest_year_data = filtered_data[filtered_data["Year"] == year_range[1]]
+    latest_per_country = latest_year_data.groupby("Country")["Kg_per_ha"].mean().sort_values()
+    ax2.barh(
+        latest_per_country.index,
+        latest_per_country.values,
+        color=[country_colors.get(c, "#666666") for c in latest_per_country.index]
+    )
+    ax2.set_xlabel("Pesticide Use (kg/ha)", fontsize=14)
+    ax2.set_ylabel("Country", fontsize=14)
+    ax2.set_title(f"Pesticide Use Intensity in {year_range[1]}", fontsize=16, fontweight="bold")
+    ax2.tick_params(axis='x', labelsize=12)
+    ax2.tick_params(axis='y', labelsize=12)
+    ax2.grid(axis="x", alpha=0.3)
+    for i, (country_name, value) in enumerate(latest_per_country.items()):
+        ax2.text(value + 0.05, i, f"{value:.2f}", va="center", fontsize=12)
+
+    plt.tight_layout()
+    st.pyplot(fig3)
+    st.write("**Insight:** Average and latest year pesticide use per country.")
+
