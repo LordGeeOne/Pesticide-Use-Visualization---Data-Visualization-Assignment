@@ -1,0 +1,1361 @@
+Country,Indicator_x,Unit_Measure(T),Pesticide_Type,Year,Tonnes,Indicator_y,Unit_Measure(kg/ha),Kg_per_ha
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1990,56.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1990,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,61.0,Pesticides Use per area of cropland,Kilogram per hectare,0.020000000000000004
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1990,272.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1990,52.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,20.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,344.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1990,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1990,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1990,27.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1990,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,22.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,52.0,Pesticides Use per area of cropland,Kilogram per hectare,0.029999999999999995
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1990,82.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1990,51.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,133.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1990,79.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1990,153.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,223.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,455.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8699999999999999
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1990,268.0,Pesticides Use per area of cropland,Kilogram per hectare,3.86
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1990,162.0,Pesticides Use per area of cropland,Kilogram per hectare,3.86
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,214.0,Pesticides Use per area of cropland,Kilogram per hectare,3.86
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,644.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8600000000000003
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1990,4285.0,Pesticides Use per area of cropland,Kilogram per hectare,1.27
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1990,7618.0,Pesticides Use per area of cropland,Kilogram per hectare,1.27
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,3504.0,Pesticides Use per area of cropland,Kilogram per hectare,1.27
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,15407.0,Pesticides Use per area of cropland,Kilogram per hectare,1.27
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1990,427.0,Pesticides Use per area of cropland,Kilogram per hectare,0.37
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1990,340.0,Pesticides Use per area of cropland,Kilogram per hectare,0.37
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,62.0,Pesticides Use per area of cropland,Kilogram per hectare,0.37
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,829.0,Pesticides Use per area of cropland,Kilogram per hectare,0.37
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1990,2071.0,Pesticides Use per area of cropland,Kilogram per hectare,1.88
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1990,1386.0,Pesticides Use per area of cropland,Kilogram per hectare,1.88
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1990,393.0,Pesticides Use per area of cropland,Kilogram per hectare,1.88
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1990,3850.0,Pesticides Use per area of cropland,Kilogram per hectare,1.88
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1991,74.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1991,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,79.0,Pesticides Use per area of cropland,Kilogram per hectare,0.029999999999999995
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1991,255.0,Pesticides Use per area of cropland,Kilogram per hectare,1.1
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1991,51.0,Pesticides Use per area of cropland,Kilogram per hectare,1.1
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,19.0,Pesticides Use per area of cropland,Kilogram per hectare,1.1
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,325.0,Pesticides Use per area of cropland,Kilogram per hectare,1.1
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1991,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1991,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1991,27.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1991,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,22.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,52.0,Pesticides Use per area of cropland,Kilogram per hectare,0.029999999999999995
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1991,82.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1991,51.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,133.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1991,81.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1991,159.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,216.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,456.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8700000000000001
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1991,272.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1991,164.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,211.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,647.0,Pesticides Use per area of cropland,Kilogram per hectare,3.7999999999999994
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1991,4285.0,Pesticides Use per area of cropland,Kilogram per hectare,1.26
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1991,7618.0,Pesticides Use per area of cropland,Kilogram per hectare,1.26
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,3504.0,Pesticides Use per area of cropland,Kilogram per hectare,1.26
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,15407.0,Pesticides Use per area of cropland,Kilogram per hectare,1.26
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1991,427.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1991,340.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,62.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,829.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1991,1805.0,Pesticides Use per area of cropland,Kilogram per hectare,2.18
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1991,1340.0,Pesticides Use per area of cropland,Kilogram per hectare,2.18
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1991,1097.0,Pesticides Use per area of cropland,Kilogram per hectare,2.18
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1991,4242.0,Pesticides Use per area of cropland,Kilogram per hectare,2.18
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1992,13.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1992,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,8.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,23.0,Pesticides Use per area of cropland,Kilogram per hectare,0.009999999999999998
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1992,238.0,Pesticides Use per area of cropland,Kilogram per hectare,1.25
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1992,51.0,Pesticides Use per area of cropland,Kilogram per hectare,1.25
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,18.0,Pesticides Use per area of cropland,Kilogram per hectare,1.25
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,307.0,Pesticides Use per area of cropland,Kilogram per hectare,1.25
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1992,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1992,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1992,27.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1992,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,22.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,52.0,Pesticides Use per area of cropland,Kilogram per hectare,0.029999999999999995
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1992,82.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1992,51.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,133.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1992,84.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1992,167.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,205.0,Pesticides Use per area of cropland,Kilogram per hectare,0.87
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,456.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8700000000000001
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1992,277.0,Pesticides Use per area of cropland,Kilogram per hectare,3.88
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1992,168.0,Pesticides Use per area of cropland,Kilogram per hectare,3.88
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,209.0,Pesticides Use per area of cropland,Kilogram per hectare,3.88
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,654.0,Pesticides Use per area of cropland,Kilogram per hectare,3.88
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1992,4266.0,Pesticides Use per area of cropland,Kilogram per hectare,1.23
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1992,7588.0,Pesticides Use per area of cropland,Kilogram per hectare,1.23
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,3556.0,Pesticides Use per area of cropland,Kilogram per hectare,1.23
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,15410.0,Pesticides Use per area of cropland,Kilogram per hectare,1.23
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1992,427.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1992,340.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,62.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,829.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1992,961.0,Pesticides Use per area of cropland,Kilogram per hectare,1.16
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1992,731.0,Pesticides Use per area of cropland,Kilogram per hectare,1.16
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1992,227.0,Pesticides Use per area of cropland,Kilogram per hectare,1.16
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1992,1919.0,Pesticides Use per area of cropland,Kilogram per hectare,1.16
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1993,153.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1993,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,13.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,167.0,Pesticides Use per area of cropland,Kilogram per hectare,0.049999999999999996
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1993,193.0,Pesticides Use per area of cropland,Kilogram per hectare,0.73
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1993,44.0,Pesticides Use per area of cropland,Kilogram per hectare,0.73
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,15.0,Pesticides Use per area of cropland,Kilogram per hectare,0.73
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,252.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7299999999999999
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1993,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1993,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1993,27.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1993,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,22.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,52.0,Pesticides Use per area of cropland,Kilogram per hectare,0.029999999999999995
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1993,82.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1993,51.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,133.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1993,88.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1993,174.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,193.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,455.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1993,282.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1993,171.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,210.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,663.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1993,4213.0,Pesticides Use per area of cropland,Kilogram per hectare,1.21
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1993,7495.0,Pesticides Use per area of cropland,Kilogram per hectare,1.21
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,3705.0,Pesticides Use per area of cropland,Kilogram per hectare,1.21
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,15413.0,Pesticides Use per area of cropland,Kilogram per hectare,1.21
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1993,427.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1993,340.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,62.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,829.0,Pesticides Use per area of cropland,Kilogram per hectare,0.39
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1993,681.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1993,785.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1993,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1993,1466.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1994,22.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1994,65.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,88.0,Pesticides Use per area of cropland,Kilogram per hectare,0.029999999999999995
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1994,156.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1994,36.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,12.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,204.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1994,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1994,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1994,27.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1994,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,22.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,52.0,Pesticides Use per area of cropland,Kilogram per hectare,0.029999999999999995
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1994,82.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1994,51.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,133.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1994,91.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1994,175.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,187.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,453.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7599999999999999
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1994,285.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1994,172.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,216.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,673.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1994,4069.0,Pesticides Use per area of cropland,Kilogram per hectare,1.2
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1994,7325.0,Pesticides Use per area of cropland,Kilogram per hectare,1.2
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,4025.0,Pesticides Use per area of cropland,Kilogram per hectare,1.2
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,15419.0,Pesticides Use per area of cropland,Kilogram per hectare,1.2
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1994,427.0,Pesticides Use per area of cropland,Kilogram per hectare,0.38
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1994,340.0,Pesticides Use per area of cropland,Kilogram per hectare,0.38
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,62.0,Pesticides Use per area of cropland,Kilogram per hectare,0.38
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,829.0,Pesticides Use per area of cropland,Kilogram per hectare,0.38
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1994,649.0,Pesticides Use per area of cropland,Kilogram per hectare,0.52
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1994,795.0,Pesticides Use per area of cropland,Kilogram per hectare,0.52
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1994,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.52
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1994,1444.0,Pesticides Use per area of cropland,Kilogram per hectare,0.5200000000000001
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1995,205.0,Pesticides Use per area of cropland,Kilogram per hectare,0.11
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1995,129.0,Pesticides Use per area of cropland,Kilogram per hectare,0.11
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.11
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,335.0,Pesticides Use per area of cropland,Kilogram per hectare,0.11
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1995,127.0,Pesticides Use per area of cropland,Kilogram per hectare,0.5
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1995,29.0,Pesticides Use per area of cropland,Kilogram per hectare,0.5
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,10.0,Pesticides Use per area of cropland,Kilogram per hectare,0.5
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,166.0,Pesticides Use per area of cropland,Kilogram per hectare,0.5
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1995,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1995,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1995,16.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1995,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,7.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,27.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1995,82.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1995,51.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,133.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1995,92.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1995,175.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,185.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,452.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1995,288.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1995,172.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,219.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,679.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1995,4231.0,Pesticides Use per area of cropland,Kilogram per hectare,1.3
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1995,7754.0,Pesticides Use per area of cropland,Kilogram per hectare,1.3
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,4786.0,Pesticides Use per area of cropland,Kilogram per hectare,1.3
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,16771.0,Pesticides Use per area of cropland,Kilogram per hectare,1.3
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1995,244.0,Pesticides Use per area of cropland,Kilogram per hectare,0.25
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1995,251.0,Pesticides Use per area of cropland,Kilogram per hectare,0.25
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,130.0,Pesticides Use per area of cropland,Kilogram per hectare,0.25
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,625.0,Pesticides Use per area of cropland,Kilogram per hectare,0.25
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1995,619.0,Pesticides Use per area of cropland,Kilogram per hectare,0.81
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1995,879.0,Pesticides Use per area of cropland,Kilogram per hectare,0.81
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1995,736.0,Pesticides Use per area of cropland,Kilogram per hectare,0.81
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1995,2234.0,Pesticides Use per area of cropland,Kilogram per hectare,0.81
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1996,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1996,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1996,131.0,Pesticides Use per area of cropland,Kilogram per hectare,0.51
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1996,30.0,Pesticides Use per area of cropland,Kilogram per hectare,0.51
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,10.0,Pesticides Use per area of cropland,Kilogram per hectare,0.51
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,171.0,Pesticides Use per area of cropland,Kilogram per hectare,0.51
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1996,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1996,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1996,18.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1996,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,11.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,31.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1996,82.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1996,51.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,133.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1996,92.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1996,174.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,184.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,450.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1996,290.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1996,173.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,219.0,Pesticides Use per area of cropland,Kilogram per hectare,3.9
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,682.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8999999999999995
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1996,4396.0,Pesticides Use per area of cropland,Kilogram per hectare,1.39
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1996,8215.0,Pesticides Use per area of cropland,Kilogram per hectare,1.39
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,5556.0,Pesticides Use per area of cropland,Kilogram per hectare,1.39
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,18167.0,Pesticides Use per area of cropland,Kilogram per hectare,1.39
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1996,476.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1996,250.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,328.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,1054.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1996,599.0,Pesticides Use per area of cropland,Kilogram per hectare,0.75
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1996,860.0,Pesticides Use per area of cropland,Kilogram per hectare,0.75
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1996,739.0,Pesticides Use per area of cropland,Kilogram per hectare,0.75
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1996,2198.0,Pesticides Use per area of cropland,Kilogram per hectare,0.75
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1997,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1997,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1997,143.0,Pesticides Use per area of cropland,Kilogram per hectare,0.64
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1997,33.0,Pesticides Use per area of cropland,Kilogram per hectare,0.64
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,11.0,Pesticides Use per area of cropland,Kilogram per hectare,0.64
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,187.0,Pesticides Use per area of cropland,Kilogram per hectare,0.64
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1997,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1997,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1997,18.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1997,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,15.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,35.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1997,82.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1997,51.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,133.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1997,92.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1997,174.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,184.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,450.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1997,271.0,Pesticides Use per area of cropland,Kilogram per hectare,3.63
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1997,165.0,Pesticides Use per area of cropland,Kilogram per hectare,3.63
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,202.0,Pesticides Use per area of cropland,Kilogram per hectare,3.63
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,638.0,Pesticides Use per area of cropland,Kilogram per hectare,3.6299999999999994
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1997,4894.0,Pesticides Use per area of cropland,Kilogram per hectare,1.54
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1997,8922.0,Pesticides Use per area of cropland,Kilogram per hectare,1.54
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,6305.0,Pesticides Use per area of cropland,Kilogram per hectare,1.54
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,20121.0,Pesticides Use per area of cropland,Kilogram per hectare,1.54
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1997,472.0,Pesticides Use per area of cropland,Kilogram per hectare,0.63
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1997,326.0,Pesticides Use per area of cropland,Kilogram per hectare,0.63
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,398.0,Pesticides Use per area of cropland,Kilogram per hectare,0.63
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,1196.0,Pesticides Use per area of cropland,Kilogram per hectare,0.63
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1997,840.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1997,910.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1997,847.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1997,2597.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8300000000000001
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1998,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1998,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1998,170.0,Pesticides Use per area of cropland,Kilogram per hectare,0.98
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1998,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.98
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,13.0,Pesticides Use per area of cropland,Kilogram per hectare,0.98
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,222.0,Pesticides Use per area of cropland,Kilogram per hectare,0.98
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1998,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1998,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1998,31.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1998,7.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,22.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,60.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1998,69.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1998,44.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,113.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1998,92.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1998,174.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,184.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,450.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1998,265.0,Pesticides Use per area of cropland,Kilogram per hectare,3.56
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1998,164.0,Pesticides Use per area of cropland,Kilogram per hectare,3.56
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,196.0,Pesticides Use per area of cropland,Kilogram per hectare,3.56
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,625.0,Pesticides Use per area of cropland,Kilogram per hectare,3.56
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1998,5683.0,Pesticides Use per area of cropland,Kilogram per hectare,1.73
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1998,9810.0,Pesticides Use per area of cropland,Kilogram per hectare,1.73
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,7127.0,Pesticides Use per area of cropland,Kilogram per hectare,1.73
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,22620.0,Pesticides Use per area of cropland,Kilogram per hectare,1.73
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1998,468.0,Pesticides Use per area of cropland,Kilogram per hectare,0.67
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1998,403.0,Pesticides Use per area of cropland,Kilogram per hectare,0.67
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,469.0,Pesticides Use per area of cropland,Kilogram per hectare,0.67
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,1340.0,Pesticides Use per area of cropland,Kilogram per hectare,0.6699999999999999
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1998,940.0,Pesticides Use per area of cropland,Kilogram per hectare,0.88
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1998,909.0,Pesticides Use per area of cropland,Kilogram per hectare,0.88
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1998,889.0,Pesticides Use per area of cropland,Kilogram per hectare,0.88
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1998,2738.0,Pesticides Use per area of cropland,Kilogram per hectare,0.88
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,1999,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,1999,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,1999,215.0,Pesticides Use per area of cropland,Kilogram per hectare,1.19
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,1999,50.0,Pesticides Use per area of cropland,Kilogram per hectare,1.19
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,17.0,Pesticides Use per area of cropland,Kilogram per hectare,1.19
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,282.0,Pesticides Use per area of cropland,Kilogram per hectare,1.1900000000000002
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,1999,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,1999,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,1999,43.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,1999,13.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,29.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,85.0,Pesticides Use per area of cropland,Kilogram per hectare,0.030000000000000002
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,1999,63.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,1999,44.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,107.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,1999,92.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,1999,174.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,184.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,450.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,1999,219.0,Pesticides Use per area of cropland,Kilogram per hectare,2.97
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,1999,138.0,Pesticides Use per area of cropland,Kilogram per hectare,2.97
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,164.0,Pesticides Use per area of cropland,Kilogram per hectare,2.97
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,521.0,Pesticides Use per area of cropland,Kilogram per hectare,2.9699999999999998
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,1999,6297.0,Pesticides Use per area of cropland,Kilogram per hectare,1.85
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,1999,10139.0,Pesticides Use per area of cropland,Kilogram per hectare,1.85
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,7763.0,Pesticides Use per area of cropland,Kilogram per hectare,1.85
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,24199.0,Pesticides Use per area of cropland,Kilogram per hectare,1.85
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,1999,464.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,1999,479.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,539.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,1482.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,1999,947.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,1999,907.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,1999,917.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),1999,2771.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2000,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2000,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2000,282.0,Pesticides Use per area of cropland,Kilogram per hectare,1.07
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2000,65.0,Pesticides Use per area of cropland,Kilogram per hectare,1.07
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,22.0,Pesticides Use per area of cropland,Kilogram per hectare,1.07
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,369.0,Pesticides Use per area of cropland,Kilogram per hectare,1.07
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2000,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2000,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2000,56.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2000,18.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,36.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,110.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2000,80.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2000,111.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,194.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2000,212.0,Pesticides Use per area of cropland,Kilogram per hectare,1.61
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2000,401.0,Pesticides Use per area of cropland,Kilogram per hectare,1.61
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,425.0,Pesticides Use per area of cropland,Kilogram per hectare,1.61
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,1038.0,Pesticides Use per area of cropland,Kilogram per hectare,1.61
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2000,212.0,Pesticides Use per area of cropland,Kilogram per hectare,2.89
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2000,134.0,Pesticides Use per area of cropland,Kilogram per hectare,2.89
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,161.0,Pesticides Use per area of cropland,Kilogram per hectare,2.89
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,507.0,Pesticides Use per area of cropland,Kilogram per hectare,2.89
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2000,6465.0,Pesticides Use per area of cropland,Kilogram per hectare,1.89
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2000,10021.0,Pesticides Use per area of cropland,Kilogram per hectare,1.89
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,8290.0,Pesticides Use per area of cropland,Kilogram per hectare,1.89
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,24776.0,Pesticides Use per area of cropland,Kilogram per hectare,1.89
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2000,460.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2000,555.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,609.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,1624.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7600000000000001
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2000,954.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2000,905.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2000,945.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2000,2804.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7900000000000001
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2001,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2001,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2001,329.0,Pesticides Use per area of cropland,Kilogram per hectare,2.17
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2001,76.0,Pesticides Use per area of cropland,Kilogram per hectare,2.17
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,25.0,Pesticides Use per area of cropland,Kilogram per hectare,2.17
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,430.0,Pesticides Use per area of cropland,Kilogram per hectare,2.17
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2001,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2001,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2001,69.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2001,23.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,42.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,134.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2001,62.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2001,89.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,156.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2001,216.0,Pesticides Use per area of cropland,Kilogram per hectare,1.64
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2001,409.0,Pesticides Use per area of cropland,Kilogram per hectare,1.64
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,433.0,Pesticides Use per area of cropland,Kilogram per hectare,1.64
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,1058.0,Pesticides Use per area of cropland,Kilogram per hectare,1.64
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2001,173.0,Pesticides Use per area of cropland,Kilogram per hectare,2.36
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2001,109.0,Pesticides Use per area of cropland,Kilogram per hectare,2.36
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,133.0,Pesticides Use per area of cropland,Kilogram per hectare,2.36
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,415.0,Pesticides Use per area of cropland,Kilogram per hectare,2.36
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2001,6079.0,Pesticides Use per area of cropland,Kilogram per hectare,1.83
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2001,9300.0,Pesticides Use per area of cropland,Kilogram per hectare,1.83
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,8316.0,Pesticides Use per area of cropland,Kilogram per hectare,1.83
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,23695.0,Pesticides Use per area of cropland,Kilogram per hectare,1.8299999999999998
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2001,456.0,Pesticides Use per area of cropland,Kilogram per hectare,0.84
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2001,632.0,Pesticides Use per area of cropland,Kilogram per hectare,0.84
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,679.0,Pesticides Use per area of cropland,Kilogram per hectare,0.84
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,1767.0,Pesticides Use per area of cropland,Kilogram per hectare,0.84
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2001,961.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2001,903.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2001,973.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2001,2837.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8200000000000001
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2002,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2002,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2002,327.0,Pesticides Use per area of cropland,Kilogram per hectare,1.76
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2002,76.0,Pesticides Use per area of cropland,Kilogram per hectare,1.76
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,25.0,Pesticides Use per area of cropland,Kilogram per hectare,1.76
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,428.0,Pesticides Use per area of cropland,Kilogram per hectare,1.76
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2002,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.1
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2002,6.0,Pesticides Use per area of cropland,Kilogram per hectare,0.1
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.1
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,10.0,Pesticides Use per area of cropland,Kilogram per hectare,0.1
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2002,81.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2002,28.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,49.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,158.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2002,43.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2002,67.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,7.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,117.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04000000000000001
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2002,202.0,Pesticides Use per area of cropland,Kilogram per hectare,1.54
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2002,382.0,Pesticides Use per area of cropland,Kilogram per hectare,1.54
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,405.0,Pesticides Use per area of cropland,Kilogram per hectare,1.54
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,989.0,Pesticides Use per area of cropland,Kilogram per hectare,1.54
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2002,292.0,Pesticides Use per area of cropland,Kilogram per hectare,3.95
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2002,182.0,Pesticides Use per area of cropland,Kilogram per hectare,3.95
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,223.0,Pesticides Use per area of cropland,Kilogram per hectare,3.95
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,697.0,Pesticides Use per area of cropland,Kilogram per hectare,3.95
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2002,6295.0,Pesticides Use per area of cropland,Kilogram per hectare,1.93
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2002,9663.0,Pesticides Use per area of cropland,Kilogram per hectare,1.93
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,9009.0,Pesticides Use per area of cropland,Kilogram per hectare,1.93
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,24967.0,Pesticides Use per area of cropland,Kilogram per hectare,1.93
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2002,451.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2002,708.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,750.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,1909.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2002,968.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2002,901.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2002,1000.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2002,2869.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2003,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2003,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2003,286.0,Pesticides Use per area of cropland,Kilogram per hectare,1.94
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2003,66.0,Pesticides Use per area of cropland,Kilogram per hectare,1.94
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,22.0,Pesticides Use per area of cropland,Kilogram per hectare,1.94
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,374.0,Pesticides Use per area of cropland,Kilogram per hectare,1.94
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2003,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2003,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,8.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2003,94.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2003,34.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,56.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,184.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2003,25.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2003,45.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,10.0,Pesticides Use per area of cropland,Kilogram per hectare,0.03
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,80.0,Pesticides Use per area of cropland,Kilogram per hectare,0.029999999999999992
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2003,64.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2003,121.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,128.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,313.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2003,373.0,Pesticides Use per area of cropland,Kilogram per hectare,5.01
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2003,233.0,Pesticides Use per area of cropland,Kilogram per hectare,5.01
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,283.0,Pesticides Use per area of cropland,Kilogram per hectare,5.01
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,889.0,Pesticides Use per area of cropland,Kilogram per hectare,5.01
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2003,6276.0,Pesticides Use per area of cropland,Kilogram per hectare,1.95
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2003,9650.0,Pesticides Use per area of cropland,Kilogram per hectare,1.95
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,9136.0,Pesticides Use per area of cropland,Kilogram per hectare,1.95
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,25062.0,Pesticides Use per area of cropland,Kilogram per hectare,1.9499999999999997
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2003,447.0,Pesticides Use per area of cropland,Kilogram per hectare,0.88
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2003,785.0,Pesticides Use per area of cropland,Kilogram per hectare,0.88
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,820.0,Pesticides Use per area of cropland,Kilogram per hectare,0.88
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,2052.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8799999999999999
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2003,974.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2003,899.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2003,1028.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2003,2901.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2004,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2004,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2004,238.0,Pesticides Use per area of cropland,Kilogram per hectare,1.39
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2004,55.0,Pesticides Use per area of cropland,Kilogram per hectare,1.39
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,18.0,Pesticides Use per area of cropland,Kilogram per hectare,1.39
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,311.0,Pesticides Use per area of cropland,Kilogram per hectare,1.39
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2004,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2004,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,10.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2004,107.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2004,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,63.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,209.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2004,7.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2004,23.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,12.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,42.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2004,46.0,Pesticides Use per area of cropland,Kilogram per hectare,0.35
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2004,86.0,Pesticides Use per area of cropland,Kilogram per hectare,0.35
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,91.0,Pesticides Use per area of cropland,Kilogram per hectare,0.35
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,223.0,Pesticides Use per area of cropland,Kilogram per hectare,0.35
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2004,490.0,Pesticides Use per area of cropland,Kilogram per hectare,6.57
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2004,311.0,Pesticides Use per area of cropland,Kilogram per hectare,6.57
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,370.0,Pesticides Use per area of cropland,Kilogram per hectare,6.57
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,1171.0,Pesticides Use per area of cropland,Kilogram per hectare,6.569999999999999
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2004,6418.0,Pesticides Use per area of cropland,Kilogram per hectare,2.05
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2004,9869.0,Pesticides Use per area of cropland,Kilogram per hectare,2.05
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,9344.0,Pesticides Use per area of cropland,Kilogram per hectare,2.05
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,25631.0,Pesticides Use per area of cropland,Kilogram per hectare,2.05
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2004,443.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2004,861.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,890.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,2194.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2004,981.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2004,898.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2004,1056.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2004,2935.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8000000000000002
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2005,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2005,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2005,247.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2005,57.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,19.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,323.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2005,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2005,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,7.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2005,120.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2005,44.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,69.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,233.0,Pesticides Use per area of cropland,Kilogram per hectare,0.049999999999999996
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2005,177.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2005,105.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,14.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,296.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2005,57.0,Pesticides Use per area of cropland,Kilogram per hectare,0.43
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2005,108.0,Pesticides Use per area of cropland,Kilogram per hectare,0.43
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,114.0,Pesticides Use per area of cropland,Kilogram per hectare,0.43
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,279.0,Pesticides Use per area of cropland,Kilogram per hectare,0.42999999999999994
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2005,418.0,Pesticides Use per area of cropland,Kilogram per hectare,5.69
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2005,275.0,Pesticides Use per area of cropland,Kilogram per hectare,5.69
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,321.0,Pesticides Use per area of cropland,Kilogram per hectare,5.69
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,1014.0,Pesticides Use per area of cropland,Kilogram per hectare,5.6899999999999995
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2005,6809.0,Pesticides Use per area of cropland,Kilogram per hectare,2.19
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2005,10470.0,Pesticides Use per area of cropland,Kilogram per hectare,2.19
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,9913.0,Pesticides Use per area of cropland,Kilogram per hectare,2.19
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,27192.0,Pesticides Use per area of cropland,Kilogram per hectare,2.19
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2005,439.0,Pesticides Use per area of cropland,Kilogram per hectare,1.02
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2005,937.0,Pesticides Use per area of cropland,Kilogram per hectare,1.02
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,961.0,Pesticides Use per area of cropland,Kilogram per hectare,1.02
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,2337.0,Pesticides Use per area of cropland,Kilogram per hectare,1.0199999999999998
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2005,988.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2005,896.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2005,1084.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2005,2968.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2006,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2006,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2006,307.0,Pesticides Use per area of cropland,Kilogram per hectare,2.01
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2006,71.0,Pesticides Use per area of cropland,Kilogram per hectare,2.01
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,24.0,Pesticides Use per area of cropland,Kilogram per hectare,2.01
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,402.0,Pesticides Use per area of cropland,Kilogram per hectare,2.01
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2006,8.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2006,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,13.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2006,132.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2006,49.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,76.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,257.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05999999999999999
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2006,142.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2006,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,52.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,199.0,Pesticides Use per area of cropland,Kilogram per hectare,0.060000000000000005
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2006,65.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2006,123.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,130.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,318.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2006,314.0,Pesticides Use per area of cropland,Kilogram per hectare,4.44
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2006,220.0,Pesticides Use per area of cropland,Kilogram per hectare,4.44
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,252.0,Pesticides Use per area of cropland,Kilogram per hectare,4.44
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,786.0,Pesticides Use per area of cropland,Kilogram per hectare,4.44
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2006,6585.0,Pesticides Use per area of cropland,Kilogram per hectare,2.22
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2006,10125.0,Pesticides Use per area of cropland,Kilogram per hectare,2.22
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,9586.0,Pesticides Use per area of cropland,Kilogram per hectare,2.22
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,26296.0,Pesticides Use per area of cropland,Kilogram per hectare,2.22
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2006,435.0,Pesticides Use per area of cropland,Kilogram per hectare,0.97
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2006,1014.0,Pesticides Use per area of cropland,Kilogram per hectare,0.97
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,1031.0,Pesticides Use per area of cropland,Kilogram per hectare,0.97
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,2480.0,Pesticides Use per area of cropland,Kilogram per hectare,0.97
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2006,995.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2006,894.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2006,1112.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2006,3001.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7600000000000001
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2007,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2007,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2007,328.0,Pesticides Use per area of cropland,Kilogram per hectare,2.36
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2007,76.0,Pesticides Use per area of cropland,Kilogram per hectare,2.36
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,25.0,Pesticides Use per area of cropland,Kilogram per hectare,2.36
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,429.0,Pesticides Use per area of cropland,Kilogram per hectare,2.36
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2007,11.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2007,6.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,17.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06999999999999999
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2007,145.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2007,55.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,83.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,283.0,Pesticides Use per area of cropland,Kilogram per hectare,0.060000000000000005
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2007,338.0,Pesticides Use per area of cropland,Kilogram per hectare,0.15
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2007,140.0,Pesticides Use per area of cropland,Kilogram per hectare,0.15
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,28.0,Pesticides Use per area of cropland,Kilogram per hectare,0.15
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,506.0,Pesticides Use per area of cropland,Kilogram per hectare,0.15
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2007,76.0,Pesticides Use per area of cropland,Kilogram per hectare,0.59
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2007,144.0,Pesticides Use per area of cropland,Kilogram per hectare,0.59
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,153.0,Pesticides Use per area of cropland,Kilogram per hectare,0.59
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,373.0,Pesticides Use per area of cropland,Kilogram per hectare,0.59
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2007,155.0,Pesticides Use per area of cropland,Kilogram per hectare,2.3
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2007,118.0,Pesticides Use per area of cropland,Kilogram per hectare,2.3
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,133.0,Pesticides Use per area of cropland,Kilogram per hectare,2.3
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,406.0,Pesticides Use per area of cropland,Kilogram per hectare,2.3
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2007,6757.0,Pesticides Use per area of cropland,Kilogram per hectare,2.27
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2007,10390.0,Pesticides Use per area of cropland,Kilogram per hectare,2.27
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,9837.0,Pesticides Use per area of cropland,Kilogram per hectare,2.27
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,26984.0,Pesticides Use per area of cropland,Kilogram per hectare,2.2700000000000005
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2007,431.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2007,1090.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,1101.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,2622.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2007,1002.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2007,892.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2007,1140.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2007,3034.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2008,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2008,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2008,324.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2008,75.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,25.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,424.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2008,11.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2008,6.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,17.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2008,158.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2008,60.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,90.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,308.0,Pesticides Use per area of cropland,Kilogram per hectare,0.060000000000000005
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2008,305.0,Pesticides Use per area of cropland,Kilogram per hectare,0.17
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2008,130.0,Pesticides Use per area of cropland,Kilogram per hectare,0.17
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,72.0,Pesticides Use per area of cropland,Kilogram per hectare,0.17
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,507.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16999999999999998
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2008,93.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2008,175.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,186.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,454.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7100000000000001
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2008,67.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2008,56.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,61.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,184.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2008,7583.0,Pesticides Use per area of cropland,Kilogram per hectare,2.51
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2008,11661.0,Pesticides Use per area of cropland,Kilogram per hectare,2.51
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,11040.0,Pesticides Use per area of cropland,Kilogram per hectare,2.51
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,30284.0,Pesticides Use per area of cropland,Kilogram per hectare,2.51
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2008,427.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2008,1166.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,1172.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,2765.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2008,1009.0,Pesticides Use per area of cropland,Kilogram per hectare,0.75
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2008,890.0,Pesticides Use per area of cropland,Kilogram per hectare,0.75
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2008,1168.0,Pesticides Use per area of cropland,Kilogram per hectare,0.75
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2008,3067.0,Pesticides Use per area of cropland,Kilogram per hectare,0.75
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2009,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2009,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2009,285.0,Pesticides Use per area of cropland,Kilogram per hectare,1.19
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2009,66.0,Pesticides Use per area of cropland,Kilogram per hectare,1.19
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,22.0,Pesticides Use per area of cropland,Kilogram per hectare,1.19
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,373.0,Pesticides Use per area of cropland,Kilogram per hectare,1.19
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2009,8.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2009,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,12.0,Pesticides Use per area of cropland,Kilogram per hectare,0.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2009,170.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2009,65.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,96.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,331.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2009,192.0,Pesticides Use per area of cropland,Kilogram per hectare,0.2
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2009,344.0,Pesticides Use per area of cropland,Kilogram per hectare,0.2
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,26.0,Pesticides Use per area of cropland,Kilogram per hectare,0.2
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,562.0,Pesticides Use per area of cropland,Kilogram per hectare,0.2
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2009,96.0,Pesticides Use per area of cropland,Kilogram per hectare,0.74
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2009,182.0,Pesticides Use per area of cropland,Kilogram per hectare,0.74
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,192.0,Pesticides Use per area of cropland,Kilogram per hectare,0.74
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,470.0,Pesticides Use per area of cropland,Kilogram per hectare,0.7399999999999999
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2009,59.0,Pesticides Use per area of cropland,Kilogram per hectare,0.96
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2009,53.0,Pesticides Use per area of cropland,Kilogram per hectare,0.96
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,58.0,Pesticides Use per area of cropland,Kilogram per hectare,0.96
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,170.0,Pesticides Use per area of cropland,Kilogram per hectare,0.96
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2009,7477.0,Pesticides Use per area of cropland,Kilogram per hectare,2.5
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2009,11497.0,Pesticides Use per area of cropland,Kilogram per hectare,2.5
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,10885.0,Pesticides Use per area of cropland,Kilogram per hectare,2.5
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,29859.0,Pesticides Use per area of cropland,Kilogram per hectare,2.5
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2009,423.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2009,1243.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,1242.0,Pesticides Use per area of cropland,Kilogram per hectare,0.93
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,2908.0,Pesticides Use per area of cropland,Kilogram per hectare,0.9300000000000002
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2009,1016.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2009,888.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2009,1195.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2009,3099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2010,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2010,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2010,294.0,Pesticides Use per area of cropland,Kilogram per hectare,1.5
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2010,68.0,Pesticides Use per area of cropland,Kilogram per hectare,1.5
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,23.0,Pesticides Use per area of cropland,Kilogram per hectare,1.5
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,385.0,Pesticides Use per area of cropland,Kilogram per hectare,1.5
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2010,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2010,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,6.0,Pesticides Use per area of cropland,Kilogram per hectare,0.02
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2010,183.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2010,71.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,103.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,357.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2010,358.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2010,43.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,117.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,518.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2010,106.0,Pesticides Use per area of cropland,Kilogram per hectare,0.81
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2010,199.0,Pesticides Use per area of cropland,Kilogram per hectare,0.81
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,211.0,Pesticides Use per area of cropland,Kilogram per hectare,0.81
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,516.0,Pesticides Use per area of cropland,Kilogram per hectare,0.81
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2010,150.0,Pesticides Use per area of cropland,Kilogram per hectare,2.52
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2010,144.0,Pesticides Use per area of cropland,Kilogram per hectare,2.52
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,156.0,Pesticides Use per area of cropland,Kilogram per hectare,2.52
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,450.0,Pesticides Use per area of cropland,Kilogram per hectare,2.52
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2010,7704.0,Pesticides Use per area of cropland,Kilogram per hectare,2.59
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2010,11846.0,Pesticides Use per area of cropland,Kilogram per hectare,2.59
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,11215.0,Pesticides Use per area of cropland,Kilogram per hectare,2.59
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,30765.0,Pesticides Use per area of cropland,Kilogram per hectare,2.5900000000000003
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2010,419.0,Pesticides Use per area of cropland,Kilogram per hectare,1.01
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2010,1319.0,Pesticides Use per area of cropland,Kilogram per hectare,1.01
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,1312.0,Pesticides Use per area of cropland,Kilogram per hectare,1.01
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,3050.0,Pesticides Use per area of cropland,Kilogram per hectare,1.01
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2010,1023.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2010,886.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2010,1223.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2010,3132.0,Pesticides Use per area of cropland,Kilogram per hectare,0.82
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2011,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2011,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2011,321.0,Pesticides Use per area of cropland,Kilogram per hectare,1.3
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2011,74.0,Pesticides Use per area of cropland,Kilogram per hectare,1.3
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,25.0,Pesticides Use per area of cropland,Kilogram per hectare,1.3
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,420.0,Pesticides Use per area of cropland,Kilogram per hectare,1.3
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2011,8.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2011,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,13.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2011,196.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2011,76.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,110.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,382.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2011,181.0,Pesticides Use per area of cropland,Kilogram per hectare,0.15
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2011,217.0,Pesticides Use per area of cropland,Kilogram per hectare,0.15
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,122.0,Pesticides Use per area of cropland,Kilogram per hectare,0.15
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,520.0,Pesticides Use per area of cropland,Kilogram per hectare,0.15
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2011,93.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2011,175.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,185.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,453.0,Pesticides Use per area of cropland,Kilogram per hectare,0.71
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2011,176.0,Pesticides Use per area of cropland,Kilogram per hectare,3.06
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2011,174.0,Pesticides Use per area of cropland,Kilogram per hectare,3.06
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,191.0,Pesticides Use per area of cropland,Kilogram per hectare,3.06
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,541.0,Pesticides Use per area of cropland,Kilogram per hectare,3.06
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2011,7643.0,Pesticides Use per area of cropland,Kilogram per hectare,2.68
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2011,11753.0,Pesticides Use per area of cropland,Kilogram per hectare,2.68
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,11127.0,Pesticides Use per area of cropland,Kilogram per hectare,2.68
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,30523.0,Pesticides Use per area of cropland,Kilogram per hectare,2.68
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2011,415.0,Pesticides Use per area of cropland,Kilogram per hectare,0.99
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2011,1395.0,Pesticides Use per area of cropland,Kilogram per hectare,0.99
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,1382.0,Pesticides Use per area of cropland,Kilogram per hectare,0.99
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,3192.0,Pesticides Use per area of cropland,Kilogram per hectare,0.99
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2011,1029.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2011,884.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2011,1251.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2011,3164.0,Pesticides Use per area of cropland,Kilogram per hectare,0.79
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2012,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2012,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2012,346.0,Pesticides Use per area of cropland,Kilogram per hectare,1.59
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2012,80.0,Pesticides Use per area of cropland,Kilogram per hectare,1.59
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,27.0,Pesticides Use per area of cropland,Kilogram per hectare,1.59
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,453.0,Pesticides Use per area of cropland,Kilogram per hectare,1.5899999999999999
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2012,10.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2012,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.05
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,14.0,Pesticides Use per area of cropland,Kilogram per hectare,0.049999999999999996
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2012,208.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2012,81.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,117.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,406.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2012,388.0,Pesticides Use per area of cropland,Kilogram per hectare,0.21
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2012,330.0,Pesticides Use per area of cropland,Kilogram per hectare,0.21
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,15.0,Pesticides Use per area of cropland,Kilogram per hectare,0.21
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,733.0,Pesticides Use per area of cropland,Kilogram per hectare,0.21000000000000002
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2012,99.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2012,188.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,199.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,486.0,Pesticides Use per area of cropland,Kilogram per hectare,0.76
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2012,171.0,Pesticides Use per area of cropland,Kilogram per hectare,3.03
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2012,173.0,Pesticides Use per area of cropland,Kilogram per hectare,3.03
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,191.0,Pesticides Use per area of cropland,Kilogram per hectare,3.03
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,535.0,Pesticides Use per area of cropland,Kilogram per hectare,3.03
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2012,7886.0,Pesticides Use per area of cropland,Kilogram per hectare,2.77
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2012,12127.0,Pesticides Use per area of cropland,Kilogram per hectare,2.77
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,11481.0,Pesticides Use per area of cropland,Kilogram per hectare,2.77
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,31494.0,Pesticides Use per area of cropland,Kilogram per hectare,2.77
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2012,410.0,Pesticides Use per area of cropland,Kilogram per hectare,0.97
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2012,1472.0,Pesticides Use per area of cropland,Kilogram per hectare,0.97
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,1453.0,Pesticides Use per area of cropland,Kilogram per hectare,0.97
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,3335.0,Pesticides Use per area of cropland,Kilogram per hectare,0.97
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2012,1036.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2012,882.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2012,1279.0,Pesticides Use per area of cropland,Kilogram per hectare,0.83
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2012,3197.0,Pesticides Use per area of cropland,Kilogram per hectare,0.8300000000000001
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2013,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2013,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2013,364.0,Pesticides Use per area of cropland,Kilogram per hectare,1.71
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2013,84.0,Pesticides Use per area of cropland,Kilogram per hectare,1.71
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,28.0,Pesticides Use per area of cropland,Kilogram per hectare,1.71
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,476.0,Pesticides Use per area of cropland,Kilogram per hectare,1.7099999999999997
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2013,17.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2013,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,23.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2013,221.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2013,86.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,124.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,431.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07999999999999999
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2013,630.0,Pesticides Use per area of cropland,Kilogram per hectare,0.41
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2013,495.0,Pesticides Use per area of cropland,Kilogram per hectare,0.41
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,222.0,Pesticides Use per area of cropland,Kilogram per hectare,0.41
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,1347.0,Pesticides Use per area of cropland,Kilogram per hectare,0.41
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2013,125.0,Pesticides Use per area of cropland,Kilogram per hectare,0.96
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2013,236.0,Pesticides Use per area of cropland,Kilogram per hectare,0.96
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,250.0,Pesticides Use per area of cropland,Kilogram per hectare,0.96
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,611.0,Pesticides Use per area of cropland,Kilogram per hectare,0.96
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2013,133.0,Pesticides Use per area of cropland,Kilogram per hectare,2.39
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2013,138.0,Pesticides Use per area of cropland,Kilogram per hectare,2.39
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,152.0,Pesticides Use per area of cropland,Kilogram per hectare,2.39
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,423.0,Pesticides Use per area of cropland,Kilogram per hectare,2.39
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2013,8329.0,Pesticides Use per area of cropland,Kilogram per hectare,2.93
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2013,12807.0,Pesticides Use per area of cropland,Kilogram per hectare,2.93
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,12125.0,Pesticides Use per area of cropland,Kilogram per hectare,2.93
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,33261.0,Pesticides Use per area of cropland,Kilogram per hectare,2.93
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2013,406.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2013,1548.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,1523.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,3477.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2013,927.0,Pesticides Use per area of cropland,Kilogram per hectare,0.62
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2013,610.0,Pesticides Use per area of cropland,Kilogram per hectare,0.62
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2013,784.0,Pesticides Use per area of cropland,Kilogram per hectare,0.62
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2013,2321.0,Pesticides Use per area of cropland,Kilogram per hectare,0.62
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2014,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2014,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2014,355.0,Pesticides Use per area of cropland,Kilogram per hectare,1.16
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2014,82.0,Pesticides Use per area of cropland,Kilogram per hectare,1.16
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,27.0,Pesticides Use per area of cropland,Kilogram per hectare,1.16
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,464.0,Pesticides Use per area of cropland,Kilogram per hectare,1.16
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2014,14.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2014,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,0.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,16.0,Pesticides Use per area of cropland,Kilogram per hectare,0.06
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2014,234.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2014,92.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,130.0,Pesticides Use per area of cropland,Kilogram per hectare,0.08
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,456.0,Pesticides Use per area of cropland,Kilogram per hectare,0.07999999999999999
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2014,575.0,Pesticides Use per area of cropland,Kilogram per hectare,0.62
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2014,1180.0,Pesticides Use per area of cropland,Kilogram per hectare,0.62
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,421.0,Pesticides Use per area of cropland,Kilogram per hectare,0.62
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,2176.0,Pesticides Use per area of cropland,Kilogram per hectare,0.62
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2014,132.0,Pesticides Use per area of cropland,Kilogram per hectare,1.02
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2014,250.0,Pesticides Use per area of cropland,Kilogram per hectare,1.02
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,265.0,Pesticides Use per area of cropland,Kilogram per hectare,1.02
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,647.0,Pesticides Use per area of cropland,Kilogram per hectare,1.02
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2014,149.0,Pesticides Use per area of cropland,Kilogram per hectare,2.69
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2014,160.0,Pesticides Use per area of cropland,Kilogram per hectare,2.69
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,172.0,Pesticides Use per area of cropland,Kilogram per hectare,2.69
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,481.0,Pesticides Use per area of cropland,Kilogram per hectare,2.6900000000000004
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2014,8802.0,Pesticides Use per area of cropland,Kilogram per hectare,3.09
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2014,13534.0,Pesticides Use per area of cropland,Kilogram per hectare,3.09
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,12814.0,Pesticides Use per area of cropland,Kilogram per hectare,3.09
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,35150.0,Pesticides Use per area of cropland,Kilogram per hectare,3.0899999999999994
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2014,402.0,Pesticides Use per area of cropland,Kilogram per hectare,1.06
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2014,1625.0,Pesticides Use per area of cropland,Kilogram per hectare,1.06
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,1593.0,Pesticides Use per area of cropland,Kilogram per hectare,1.06
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,3620.0,Pesticides Use per area of cropland,Kilogram per hectare,1.06
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2014,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2014,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2014,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2014,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2015,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2015,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2015,466.0,Pesticides Use per area of cropland,Kilogram per hectare,2.35
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2015,108.0,Pesticides Use per area of cropland,Kilogram per hectare,2.35
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,36.0,Pesticides Use per area of cropland,Kilogram per hectare,2.35
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,610.0,Pesticides Use per area of cropland,Kilogram per hectare,2.35
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2015,49.0,Pesticides Use per area of cropland,Kilogram per hectare,0.25
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2015,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.25
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.25
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,55.0,Pesticides Use per area of cropland,Kilogram per hectare,0.25
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2015,247.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2015,97.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,137.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,481.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2015,616.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2015,1051.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,393.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,2060.0,Pesticides Use per area of cropland,Kilogram per hectare,0.58
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2015,150.0,Pesticides Use per area of cropland,Kilogram per hectare,1.15
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2015,283.0,Pesticides Use per area of cropland,Kilogram per hectare,1.15
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,299.0,Pesticides Use per area of cropland,Kilogram per hectare,1.15
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,732.0,Pesticides Use per area of cropland,Kilogram per hectare,1.15
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2015,165.0,Pesticides Use per area of cropland,Kilogram per hectare,3.0
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2015,183.0,Pesticides Use per area of cropland,Kilogram per hectare,3.0
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,192.0,Pesticides Use per area of cropland,Kilogram per hectare,3.0
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,540.0,Pesticides Use per area of cropland,Kilogram per hectare,3.0
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2015,8653.0,Pesticides Use per area of cropland,Kilogram per hectare,3.04
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2015,13306.0,Pesticides Use per area of cropland,Kilogram per hectare,3.04
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,12598.0,Pesticides Use per area of cropland,Kilogram per hectare,3.04
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,34557.0,Pesticides Use per area of cropland,Kilogram per hectare,3.04
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2015,398.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2015,1701.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,1664.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,3763.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2015,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2015,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2015,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2015,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2016,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2016,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2016,561.0,Pesticides Use per area of cropland,Kilogram per hectare,2.83
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2016,129.0,Pesticides Use per area of cropland,Kilogram per hectare,2.83
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,43.0,Pesticides Use per area of cropland,Kilogram per hectare,2.83
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,733.0,Pesticides Use per area of cropland,Kilogram per hectare,2.8299999999999996
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2016,69.0,Pesticides Use per area of cropland,Kilogram per hectare,0.21
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2016,4.0,Pesticides Use per area of cropland,Kilogram per hectare,0.21
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.21
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,75.0,Pesticides Use per area of cropland,Kilogram per hectare,0.21
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2016,259.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2016,102.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,144.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,505.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2016,657.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2016,923.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,366.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,1946.0,Pesticides Use per area of cropland,Kilogram per hectare,0.53
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2016,129.0,Pesticides Use per area of cropland,Kilogram per hectare,0.99
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2016,244.0,Pesticides Use per area of cropland,Kilogram per hectare,0.99
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,258.0,Pesticides Use per area of cropland,Kilogram per hectare,0.99
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,631.0,Pesticides Use per area of cropland,Kilogram per hectare,0.9899999999999999
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2016,191.0,Pesticides Use per area of cropland,Kilogram per hectare,3.51
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2016,218.0,Pesticides Use per area of cropland,Kilogram per hectare,3.51
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,226.0,Pesticides Use per area of cropland,Kilogram per hectare,3.51
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,635.0,Pesticides Use per area of cropland,Kilogram per hectare,3.51
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2016,8223.0,Pesticides Use per area of cropland,Kilogram per hectare,2.89
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2016,12644.0,Pesticides Use per area of cropland,Kilogram per hectare,2.89
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,11971.0,Pesticides Use per area of cropland,Kilogram per hectare,2.89
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,32838.0,Pesticides Use per area of cropland,Kilogram per hectare,2.89
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2016,394.0,Pesticides Use per area of cropland,Kilogram per hectare,1.13
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2016,1777.0,Pesticides Use per area of cropland,Kilogram per hectare,1.13
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,1734.0,Pesticides Use per area of cropland,Kilogram per hectare,1.13
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,3905.0,Pesticides Use per area of cropland,Kilogram per hectare,1.13
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2016,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2016,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2016,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2016,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2017,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2017,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2017,717.0,Pesticides Use per area of cropland,Kilogram per hectare,3.61
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2017,166.0,Pesticides Use per area of cropland,Kilogram per hectare,3.61
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,55.0,Pesticides Use per area of cropland,Kilogram per hectare,3.61
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,938.0,Pesticides Use per area of cropland,Kilogram per hectare,3.6100000000000003
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2017,78.0,Pesticides Use per area of cropland,Kilogram per hectare,0.2
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2017,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.2
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,3.0,Pesticides Use per area of cropland,Kilogram per hectare,0.2
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,83.0,Pesticides Use per area of cropland,Kilogram per hectare,0.2
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2017,272.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2017,107.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,151.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,530.0,Pesticides Use per area of cropland,Kilogram per hectare,0.09000000000000001
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2017,698.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2017,795.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,339.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,1832.0,Pesticides Use per area of cropland,Kilogram per hectare,0.49
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2017,138.0,Pesticides Use per area of cropland,Kilogram per hectare,1.06
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2017,261.0,Pesticides Use per area of cropland,Kilogram per hectare,1.06
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,277.0,Pesticides Use per area of cropland,Kilogram per hectare,1.06
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,676.0,Pesticides Use per area of cropland,Kilogram per hectare,1.06
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2017,240.0,Pesticides Use per area of cropland,Kilogram per hectare,4.45
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2017,279.0,Pesticides Use per area of cropland,Kilogram per hectare,4.45
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,288.0,Pesticides Use per area of cropland,Kilogram per hectare,4.45
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,807.0,Pesticides Use per area of cropland,Kilogram per hectare,4.450000000000001
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2017,9055.0,Pesticides Use per area of cropland,Kilogram per hectare,3.18
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2017,13924.0,Pesticides Use per area of cropland,Kilogram per hectare,3.18
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,13183.0,Pesticides Use per area of cropland,Kilogram per hectare,3.18
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,36162.0,Pesticides Use per area of cropland,Kilogram per hectare,3.18
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2017,390.0,Pesticides Use per area of cropland,Kilogram per hectare,1.13
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2017,1854.0,Pesticides Use per area of cropland,Kilogram per hectare,1.13
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,1804.0,Pesticides Use per area of cropland,Kilogram per hectare,1.13
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,4048.0,Pesticides Use per area of cropland,Kilogram per hectare,1.13
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2017,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2017,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2017,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2017,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2018,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2018,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2018,668.0,Pesticides Use per area of cropland,Kilogram per hectare,3.36
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2018,154.0,Pesticides Use per area of cropland,Kilogram per hectare,3.36
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,51.0,Pesticides Use per area of cropland,Kilogram per hectare,3.36
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,873.0,Pesticides Use per area of cropland,Kilogram per hectare,3.3600000000000003
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2018,61.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2018,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,5.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,67.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2018,312.0,Pesticides Use per area of cropland,Kilogram per hectare,0.12
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2018,137.0,Pesticides Use per area of cropland,Kilogram per hectare,0.12
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,216.0,Pesticides Use per area of cropland,Kilogram per hectare,0.12
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,665.0,Pesticides Use per area of cropland,Kilogram per hectare,0.12
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2018,739.0,Pesticides Use per area of cropland,Kilogram per hectare,0.45
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2018,667.0,Pesticides Use per area of cropland,Kilogram per hectare,0.45
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,312.0,Pesticides Use per area of cropland,Kilogram per hectare,0.45
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,1718.0,Pesticides Use per area of cropland,Kilogram per hectare,0.45
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2018,134.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2018,254.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,269.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,657.0,Pesticides Use per area of cropland,Kilogram per hectare,1.03
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2018,287.0,Pesticides Use per area of cropland,Kilogram per hectare,5.33
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2018,335.0,Pesticides Use per area of cropland,Kilogram per hectare,5.33
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,348.0,Pesticides Use per area of cropland,Kilogram per hectare,5.33
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,970.0,Pesticides Use per area of cropland,Kilogram per hectare,5.33
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2018,8948.0,Pesticides Use per area of cropland,Kilogram per hectare,3.14
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2018,13759.0,Pesticides Use per area of cropland,Kilogram per hectare,3.14
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,13026.0,Pesticides Use per area of cropland,Kilogram per hectare,3.14
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,35733.0,Pesticides Use per area of cropland,Kilogram per hectare,3.14
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2018,229.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2018,1854.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,1804.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,3887.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2018,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2018,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2018,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2018,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2019,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2019,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2019,757.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2019,175.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,58.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,990.0,Pesticides Use per area of cropland,Kilogram per hectare,3.8
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2019,98.0,Pesticides Use per area of cropland,Kilogram per hectare,0.73
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2019,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.73
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,14.0,Pesticides Use per area of cropland,Kilogram per hectare,0.73
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,113.0,Pesticides Use per area of cropland,Kilogram per hectare,0.73
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2019,353.0,Pesticides Use per area of cropland,Kilogram per hectare,0.14
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2019,166.0,Pesticides Use per area of cropland,Kilogram per hectare,0.14
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,282.0,Pesticides Use per area of cropland,Kilogram per hectare,0.14
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,801.0,Pesticides Use per area of cropland,Kilogram per hectare,0.14
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2019,780.0,Pesticides Use per area of cropland,Kilogram per hectare,0.41
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2019,538.0,Pesticides Use per area of cropland,Kilogram per hectare,0.41
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,285.0,Pesticides Use per area of cropland,Kilogram per hectare,0.41
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,1603.0,Pesticides Use per area of cropland,Kilogram per hectare,0.4099999999999999
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2019,146.0,Pesticides Use per area of cropland,Kilogram per hectare,1.12
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2019,276.0,Pesticides Use per area of cropland,Kilogram per hectare,1.12
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,292.0,Pesticides Use per area of cropland,Kilogram per hectare,1.12
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,714.0,Pesticides Use per area of cropland,Kilogram per hectare,1.12
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2019,316.0,Pesticides Use per area of cropland,Kilogram per hectare,5.89
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2019,368.0,Pesticides Use per area of cropland,Kilogram per hectare,5.89
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,386.0,Pesticides Use per area of cropland,Kilogram per hectare,5.89
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,1070.0,Pesticides Use per area of cropland,Kilogram per hectare,5.890000000000001
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2019,8975.0,Pesticides Use per area of cropland,Kilogram per hectare,3.15
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2019,13801.0,Pesticides Use per area of cropland,Kilogram per hectare,3.15
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,13067.0,Pesticides Use per area of cropland,Kilogram per hectare,3.15
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,35843.0,Pesticides Use per area of cropland,Kilogram per hectare,3.1499999999999995
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2019,229.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2019,1854.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,1804.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,3887.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2019,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2019,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2019,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2019,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2020,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2020,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2020,908.0,Pesticides Use per area of cropland,Kilogram per hectare,4.55
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2020,210.0,Pesticides Use per area of cropland,Kilogram per hectare,4.55
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,70.0,Pesticides Use per area of cropland,Kilogram per hectare,4.55
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,1188.0,Pesticides Use per area of cropland,Kilogram per hectare,4.55
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2020,184.0,Pesticides Use per area of cropland,Kilogram per hectare,0.63
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2020,2.0,Pesticides Use per area of cropland,Kilogram per hectare,0.63
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,35.0,Pesticides Use per area of cropland,Kilogram per hectare,0.63
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,221.0,Pesticides Use per area of cropland,Kilogram per hectare,0.6300000000000001
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2020,662.0,Pesticides Use per area of cropland,Kilogram per hectare,0.17
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2020,145.0,Pesticides Use per area of cropland,Kilogram per hectare,0.17
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,182.0,Pesticides Use per area of cropland,Kilogram per hectare,0.17
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,989.0,Pesticides Use per area of cropland,Kilogram per hectare,0.16999999999999998
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2020,821.0,Pesticides Use per area of cropland,Kilogram per hectare,0.37
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2020,410.0,Pesticides Use per area of cropland,Kilogram per hectare,0.37
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,257.0,Pesticides Use per area of cropland,Kilogram per hectare,0.37
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,1488.0,Pesticides Use per area of cropland,Kilogram per hectare,0.36999999999999994
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2020,162.0,Pesticides Use per area of cropland,Kilogram per hectare,1.24
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2020,307.0,Pesticides Use per area of cropland,Kilogram per hectare,1.24
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,325.0,Pesticides Use per area of cropland,Kilogram per hectare,1.24
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,794.0,Pesticides Use per area of cropland,Kilogram per hectare,1.24
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2020,341.0,Pesticides Use per area of cropland,Kilogram per hectare,6.35
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2020,396.0,Pesticides Use per area of cropland,Kilogram per hectare,6.35
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,416.0,Pesticides Use per area of cropland,Kilogram per hectare,6.35
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,1153.0,Pesticides Use per area of cropland,Kilogram per hectare,6.35
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2020,9548.0,Pesticides Use per area of cropland,Kilogram per hectare,3.35
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2020,14682.0,Pesticides Use per area of cropland,Kilogram per hectare,3.35
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,13901.0,Pesticides Use per area of cropland,Kilogram per hectare,3.35
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,38131.0,Pesticides Use per area of cropland,Kilogram per hectare,3.35
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2020,229.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2020,1854.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,1804.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,3887.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2020,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2020,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2020,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2020,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2021,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2021,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2021,1056.0,Pesticides Use per area of cropland,Kilogram per hectare,5.29
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2021,244.0,Pesticides Use per area of cropland,Kilogram per hectare,5.29
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,81.0,Pesticides Use per area of cropland,Kilogram per hectare,5.29
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,1381.0,Pesticides Use per area of cropland,Kilogram per hectare,5.29
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2021,194.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2021,2.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,44.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,240.0,Pesticides Use per area of cropland,Kilogram per hectare,1.04
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2021,638.0,Pesticides Use per area of cropland,Kilogram per hectare,0.18
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2021,173.0,Pesticides Use per area of cropland,Kilogram per hectare,0.18
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,210.0,Pesticides Use per area of cropland,Kilogram per hectare,0.18
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,1021.0,Pesticides Use per area of cropland,Kilogram per hectare,0.17999999999999997
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2021,689.0,Pesticides Use per area of cropland,Kilogram per hectare,0.34
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2021,420.0,Pesticides Use per area of cropland,Kilogram per hectare,0.34
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,274.0,Pesticides Use per area of cropland,Kilogram per hectare,0.34
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,1383.0,Pesticides Use per area of cropland,Kilogram per hectare,0.3400000000000001
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2021,187.0,Pesticides Use per area of cropland,Kilogram per hectare,1.43
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2021,353.0,Pesticides Use per area of cropland,Kilogram per hectare,1.43
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,374.0,Pesticides Use per area of cropland,Kilogram per hectare,1.43
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,914.0,Pesticides Use per area of cropland,Kilogram per hectare,1.43
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2021,352.0,Pesticides Use per area of cropland,Kilogram per hectare,6.57
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2021,410.0,Pesticides Use per area of cropland,Kilogram per hectare,6.57
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,429.0,Pesticides Use per area of cropland,Kilogram per hectare,6.57
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,1191.0,Pesticides Use per area of cropland,Kilogram per hectare,6.57
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2021,9772.0,Pesticides Use per area of cropland,Kilogram per hectare,3.43
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2021,15027.0,Pesticides Use per area of cropland,Kilogram per hectare,3.43
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,14227.0,Pesticides Use per area of cropland,Kilogram per hectare,3.43
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,39026.0,Pesticides Use per area of cropland,Kilogram per hectare,3.4299999999999997
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2021,229.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2021,1854.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,1804.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,3887.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2021,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2021,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2021,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2021,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2022,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2022,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2022,1070.0,Pesticides Use per area of cropland,Kilogram per hectare,5.36
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2022,247.0,Pesticides Use per area of cropland,Kilogram per hectare,5.36
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,82.0,Pesticides Use per area of cropland,Kilogram per hectare,5.36
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,1399.0,Pesticides Use per area of cropland,Kilogram per hectare,5.360000000000001
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2022,392.0,Pesticides Use per area of cropland,Kilogram per hectare,1.77
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2022,3.0,Pesticides Use per area of cropland,Kilogram per hectare,1.77
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,94.0,Pesticides Use per area of cropland,Kilogram per hectare,1.77
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,489.0,Pesticides Use per area of cropland,Kilogram per hectare,1.77
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2022,1194.0,Pesticides Use per area of cropland,Kilogram per hectare,0.34
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2022,456.0,Pesticides Use per area of cropland,Kilogram per hectare,0.34
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,345.0,Pesticides Use per area of cropland,Kilogram per hectare,0.34
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,1995.0,Pesticides Use per area of cropland,Kilogram per hectare,0.33999999999999997
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2022,1195.0,Pesticides Use per area of cropland,Kilogram per hectare,0.48
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2022,467.0,Pesticides Use per area of cropland,Kilogram per hectare,0.48
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,342.0,Pesticides Use per area of cropland,Kilogram per hectare,0.48
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,2004.0,Pesticides Use per area of cropland,Kilogram per hectare,0.48
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2022,192.0,Pesticides Use per area of cropland,Kilogram per hectare,1.47
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2022,362.0,Pesticides Use per area of cropland,Kilogram per hectare,1.47
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,383.0,Pesticides Use per area of cropland,Kilogram per hectare,1.47
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,937.0,Pesticides Use per area of cropland,Kilogram per hectare,1.47
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2022,350.0,Pesticides Use per area of cropland,Kilogram per hectare,6.53
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2022,408.0,Pesticides Use per area of cropland,Kilogram per hectare,6.53
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,426.0,Pesticides Use per area of cropland,Kilogram per hectare,6.53
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,1184.0,Pesticides Use per area of cropland,Kilogram per hectare,6.53
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2022,9686.0,Pesticides Use per area of cropland,Kilogram per hectare,3.4
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2022,14894.0,Pesticides Use per area of cropland,Kilogram per hectare,3.4
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,14101.0,Pesticides Use per area of cropland,Kilogram per hectare,3.4
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,38681.0,Pesticides Use per area of cropland,Kilogram per hectare,3.4
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2022,229.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2022,1854.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,1804.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,3887.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2022,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2022,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2022,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2022,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Angola,Pesticides Agricultural Use,Tonnes,Insecticides,2023,37.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Herbicides,2023,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,1.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Angola,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,39.0,Pesticides Use per area of cropland,Kilogram per hectare,0.01
+Botswana,Pesticides Agricultural Use,Tonnes,Insecticides,2023,969.0,Pesticides Use per area of cropland,Kilogram per hectare,4.85
+Botswana,Pesticides Agricultural Use,Tonnes,Herbicides,2023,224.0,Pesticides Use per area of cropland,Kilogram per hectare,4.85
+Botswana,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,75.0,Pesticides Use per area of cropland,Kilogram per hectare,4.85
+Botswana,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,1268.0,Pesticides Use per area of cropland,Kilogram per hectare,4.85
+Lesotho,Pesticides Agricultural Use,Tonnes,Insecticides,2023,440.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Lesotho,Pesticides Agricultural Use,Tonnes,Herbicides,2023,3.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Lesotho,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,107.0,Pesticides Use per area of cropland,Kilogram per hectare,1.53
+Lesotho,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,550.0,Pesticides Use per area of cropland,Kilogram per hectare,1.5300000000000002
+Mozambique,Pesticides Agricultural Use,Tonnes,Insecticides,2023,2262.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Mozambique,Pesticides Agricultural Use,Tonnes,Herbicides,2023,421.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Mozambique,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,316.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Mozambique,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,2999.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Malawi,Pesticides Agricultural Use,Tonnes,Insecticides,2023,1195.0,Pesticides Use per area of cropland,Kilogram per hectare,0.48
+Malawi,Pesticides Agricultural Use,Tonnes,Herbicides,2023,467.0,Pesticides Use per area of cropland,Kilogram per hectare,0.48
+Malawi,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,342.0,Pesticides Use per area of cropland,Kilogram per hectare,0.48
+Malawi,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,2004.0,Pesticides Use per area of cropland,Kilogram per hectare,0.48
+Namibia,Pesticides Agricultural Use,Tonnes,Insecticides,2023,191.0,Pesticides Use per area of cropland,Kilogram per hectare,1.46
+Namibia,Pesticides Agricultural Use,Tonnes,Herbicides,2023,361.0,Pesticides Use per area of cropland,Kilogram per hectare,1.46
+Namibia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,382.0,Pesticides Use per area of cropland,Kilogram per hectare,1.46
+Namibia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,934.0,Pesticides Use per area of cropland,Kilogram per hectare,1.46
+Eswatini,Pesticides Agricultural Use,Tonnes,Insecticides,2023,333.0,Pesticides Use per area of cropland,Kilogram per hectare,6.21
+Eswatini,Pesticides Agricultural Use,Tonnes,Herbicides,2023,388.0,Pesticides Use per area of cropland,Kilogram per hectare,6.21
+Eswatini,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,405.0,Pesticides Use per area of cropland,Kilogram per hectare,6.21
+Eswatini,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,1126.0,Pesticides Use per area of cropland,Kilogram per hectare,6.21
+South Africa,Pesticides Agricultural Use,Tonnes,Insecticides,2023,9639.0,Pesticides Use per area of cropland,Kilogram per hectare,3.39
+South Africa,Pesticides Agricultural Use,Tonnes,Herbicides,2023,14822.0,Pesticides Use per area of cropland,Kilogram per hectare,3.39
+South Africa,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,14033.0,Pesticides Use per area of cropland,Kilogram per hectare,3.39
+South Africa,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,38494.0,Pesticides Use per area of cropland,Kilogram per hectare,3.39
+Zambia,Pesticides Agricultural Use,Tonnes,Insecticides,2023,229.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Herbicides,2023,1854.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,1804.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zambia,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,3887.0,Pesticides Use per area of cropland,Kilogram per hectare,1.09
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Insecticides,2023,1099.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Herbicides,2023,549.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Fungicides and Bactericides,2023,360.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
+Zimbabwe,Pesticides Agricultural Use,Tonnes,Pesticides (total),2023,2008.0,Pesticides Use per area of cropland,Kilogram per hectare,0.54
