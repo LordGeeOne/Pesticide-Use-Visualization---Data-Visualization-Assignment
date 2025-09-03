@@ -4,6 +4,7 @@ An interactive dashboard visualizing pesticide use trends in Southern Africa (19
 
 ## 📊 Features
 
+### Interactive Dashboard
 - **Regional Trends**: Average pesticide intensity across countries over time
 - **Country Comparison**: Compare pesticide trends among different countries
 - **Overview Analysis**: Average vs latest year pesticide use comparison
@@ -11,6 +12,14 @@ An interactive dashboard visualizing pesticide use trends in Southern Africa (19
 - **South Africa Focus**: Detailed analysis of South Africa's regional leadership
 - **Pesticide Breakdown**: Analysis by pesticide types (herbicides, fungicides, insecticides)
 - **Outlier Detection**: Identify unusual data points in the dataset
+
+### Assignment Notebook (`Assignment_Draft.ipynb`)
+- **Complete Data Pipeline**: Full workflow from raw data to insights
+- **Data Quality Assessment**: Missing value analysis and data validation
+- **Statistical Analysis**: NumPy-based numerical analysis with correlation studies
+- **Advanced Visualizations**: Interactive Plotly charts and publication-ready matplotlib plots
+- **Database Integration**: SQLite operations with transaction management
+- **Comprehensive Documentation**: Step-by-step analysis with insights and conclusions
 
 ## 🚀 Getting Started
 
@@ -42,7 +51,7 @@ An interactive dashboard visualizing pesticide use trends in Southern Africa (19
 
 3. **Install required packages**
    ```bash
-   pip install streamlit pandas plotly matplotlib seaborn sqlite3
+   pip install streamlit pandas plotly matplotlib seaborn jupyter sqlite3
    ```
 
    Or install from requirements file:
@@ -80,6 +89,7 @@ pandas>=1.5.0
 plotly>=5.15.0
 matplotlib>=3.6.0
 seaborn>=0.12.0
+jupyter>=1.0.0
 sqlite3 (built-in with Python)
 ```
 
@@ -89,13 +99,43 @@ sqlite3 (built-in with Python)
 Pesticide-Use-Visualization/
 │
 ├── Dashboard/
-│   └── Pesticide_Use_Dashboard.py    # Main dashboard application
+│   ├── Pesticide_Use_Dashboard.py     # Main dashboard application
+│   └── Pesticide_Cleaned_Data_v3.csv  # Cleaned dataset for dashboard
 │
-├── Pesticide_Cleaned_Data_v3.csv     # Main dataset
-├── Pesticide_Uses_ZA.db              # SQLite database
-├── README.md                         # This file
-└── requirements.txt                  # Python dependencies
+├── Notebook/
+│   ├── Assignment_Draft.ipynb         # Complete data analysis notebook
+│   ├── Pesticide_use_per_crop_area.xlsx
+│   └── Pesticide_use.csv.xlsx         # Original raw datasets
+│
+├── Pesticide_Uses_ZA.db               # SQLite database
+├── README.md                          # This file
+└── requirements.txt                   # Python dependencies
 ```
+
+### Running the Assignment Notebook
+
+For the complete data analysis workflow:
+
+1. **Navigate to the Notebook directory**
+   ```bash
+   cd Notebook
+   ```
+
+2. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook Assignment_Draft.ipynb
+   ```
+   
+   Or use VS Code to open the notebook directly.
+
+3. **Run all cells** to reproduce the complete analysis including:
+   - Data loading and exploration
+   - Data cleaning and preparation
+   - Quality assessment
+   - Exploratory data analysis
+   - Statistical analysis with NumPy
+   - Data visualization
+   - Database integration
 
 ## 💡 Usage
 
