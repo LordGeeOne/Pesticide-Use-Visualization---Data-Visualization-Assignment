@@ -186,12 +186,6 @@ Use the **sidebar** to:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Contact
-
-**LordGeeOne** - [GitHub Profile](https://github.com/LordGeeOne)
-
-Project Link: [https://github.com/LordGeeOne/Pesticide-Use-Visualization---Data-Visualization-Assignment](https://github.com/LordGeeOne/Pesticide-Use-Visualization---Data-Visualization-Assignment)
-
 ## 🙏 Acknowledgments
 
 - Data sources and methodology acknowledgments
