@@ -270,3 +270,69 @@ elif section == "South Africa Regional Leadership":
     -  In the last 5 years, **Eswatini and Botswana surpassed South Africa** in intensity, but SA remains a **top user regionally**.
     """)
 
+# -----------------------
+# Section: Pesticides Breakdown
+# -----------------------
+elif section == "Pesticides Breakdown":
+    st.subheader("🧪 Pesticides Breakdown by Type")
+
+    pesticide_types = filtered_data[filtered_data["Pesticide_Type"] != "Pesticides (total)"].copy()
+    if pesticide_types.empty:
+        st.warning("No data available for the selected filters.")
+    else:
+        type_summary = pesticide_types.groupby(['Country', 'Pesticide_Type'])['Tonnes'].mean().reset_index()
+        type_pivot = type_summary.pivot(index='Country', columns='Pesticide_Type', values='Tonnes').fillna(0)
+
+        # --- Stacked Bars ---
+        fig6, (ax1, ax2) = plt.subplots(1, 2, figsize=(20, 6), constrained_layout=True)
+
+        type_pivot.plot(kind='bar', stacked=True, ax=ax1, color=plt.cm.Set2.colors[:type_pivot.shape[1]])
+        ax1.set_xlabel('Country', fontsize=14)
+        ax1.set_ylabel('Average Pesticide Use (tonnes)', fontsize=14)
+        ax1.set_title('Average Pesticide Use by Type (1990–2023)', fontsize=16, fontweight='bold')
+        ax1.tick_params(axis='x', labelsize=12)
+        ax1.tick_params(axis='y', labelsize=12)
+        ax1.legend(title='Pesticide Type', bbox_to_anchor=(1.05,1), loc='best', fontsize=14)
+        ax1.grid(axis='y', alpha=0.3)
+        plt.setp(ax1.xaxis.get_majorticklabels(), rotation=45, ha='right', fontsize=12)
+
+        type_pivot_pct = type_pivot.div(type_pivot.sum(axis=1), axis=0) * 100
+        type_pivot_pct.plot(kind='bar', stacked=True, ax=ax2, color=plt.cm.Set2.colors[:type_pivot.shape[1]])
+        ax2.set_xlabel('Country', fontsize=14)
+        ax2.set_ylabel('Percentage (%)', fontsize=14)
+        ax2.set_title('Pesticide Type Composition by Country', fontsize=16, fontweight='bold')
+        ax2.tick_params(axis='x', labelsize=12)
+        ax2.tick_params(axis='y', labelsize=12)
+        ax2.legend(title='Pesticide Type', bbox_to_anchor=(1.05,1), loc='upper left', fontsize=10)
+        ax2.grid(axis='y', alpha=0.3)
+        plt.setp(ax2.xaxis.get_majorticklabels(), rotation=45, ha='right', fontsize=14)
+
+        st.pyplot(fig6)
+        st.write("**Insight:** Left chart shows absolute use per type; right chart shows composition per country.")
+
+        # --- Pie Charts ---
+        fig7, axes = plt.subplots(1, 2, figsize=(14,6))
+
+        # South Africa Pie
+        sa_data = type_pivot.loc['South Africa'] if 'South Africa' in type_pivot.index else pd.Series()
+        if not sa_data.empty:
+            axes[0].pie(sa_data, labels=sa_data.index, autopct='%1.1f%%', startangle=90, textprops={'fontsize':12})
+            axes[0].set_title("South Africa Pesticide Composition", fontsize=14, fontweight='bold')
+        else:
+            axes[0].text(0.5,0.5,"No data for South Africa", ha='center', va='center', fontsize=12)
+
+        # Global Pie
+        global_data = type_pivot.mean(axis=0)
+        axes[1].pie(global_data, labels=global_data.index, autopct='%1.1f%%', startangle=90, textprops={'fontsize':12})
+        axes[1].set_title("Global Pesticide Composition (Selected Countries)", fontsize=14, fontweight='bold')
+
+        st.pyplot(fig7)
+        # --- Key Insights for Pesticide Breakdown ---
+        st.markdown("""
+        ###  Key Insights
+        -  **Herbicides dominate** pesticide use both in **South Africa (40%)** and **globally (~39%)**.
+        -  **Fungicides** are the second largest category, making up **~34–35%** of use.
+        -  **Insecticides** have the smallest share, especially in South Africa (**25% vs global 28%**).
+        -  South Africa’s pesticide mix **aligns closely with global trends**, but with slightly **heavier herbicide dependence**.
+        """)
+
