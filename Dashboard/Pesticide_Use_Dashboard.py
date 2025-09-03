@@ -148,3 +148,43 @@ elif section == "Overview: Average vs Latest Year":
     st.pyplot(fig3)
     st.write("**Insight:** Average and latest year pesticide use per country.")
 
+# -----------------------
+# Section: Average Pesticide Use by Decade
+# -----------------------
+elif section == "Average Pesticide Use by Decade":
+    st.subheader("📊 Average Pesticide Use per Hectare by Decade")
+    conn = sqlite3.connect("Pesticide_Uses_ZA.db")
+    df_db = pd.read_sql_query("SELECT * FROM Pesticide_Uses;", conn)
+    conn.close()
+    df_db = df_db[df_db["Pesticide_Type"].isin(selected_types)]
+    df_db = df_db[df_db["Country"].isin(selected_countries)]
+    df_db = df_db[(df_db["Year"] >= year_range[0]) & (df_db["Year"] <= year_range[1])]
+
+    def get_decade(year):
+        if 1990 <= year <= 1999: return "1990s"
+        elif 2000 <= year <= 2009: return "2000s"
+        elif 2010 <= year <= 2019: return "2010s"
+        elif 2020 <= year <= 2023: return "2020s"
+        else: return "Other"
+
+    df_db["Decade"] = df_db["Year"].apply(get_decade)
+    avg_decade = df_db.groupby("Decade", as_index=False)["Kg_per_ha"].mean().rename(columns={"Kg_per_ha":"Avg_Kg_per_ha"})
+    st.dataframe(avg_decade)
+
+    first_decade = avg_decade["Avg_Kg_per_ha"].iloc[0]
+    last_decade = avg_decade["Avg_Kg_per_ha"].iloc[-1]
+    pct_increase = ((last_decade - first_decade) / first_decade) * 100
+    st.write(f"Average use per hectare increased by **{pct_increase:.2f}%** from {avg_decade['Decade'].iloc[0]} to {avg_decade['Decade'].iloc[-1]}.")
+
+    fig4, ax = plt.subplots(figsize=(8, 6))
+    sns.barplot(x="Decade", y="Avg_Kg_per_ha", data=avg_decade, palette="Set2", ax=ax)
+    for index, row in avg_decade.iterrows():
+        ax.text(index, row.Avg_Kg_per_ha/2, f"{row.Avg_Kg_per_ha:.2f}", ha="center", va="center", color="white", fontweight="bold", fontsize=12)
+    ax.set_title("Average Pesticide Use per Hectare by Decade", fontsize=16, fontweight="bold")
+    ax.set_ylabel("Avg Kg per Ha", fontsize=14)
+    ax.set_xlabel("Decade", fontsize=14)
+    ax.tick_params(axis='x', labelsize=12)
+    ax.tick_params(axis='y', labelsize=12)
+    st.pyplot(fig4)
+    st.write("**Insight:** Shows how pesticide use per hectare changed across decades.")
+
