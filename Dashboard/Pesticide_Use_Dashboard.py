@@ -82,3 +82,27 @@ if section == "Regional Trends":
     st.plotly_chart(fig, use_container_width=True)
     st.write("**Insight:** Shows the average pesticide intensity across selected countries over time.")
 
+# -----------------------
+# Section: Country Comparison
+# -----------------------
+elif section == "Country Comparison":
+    st.subheader("📊 Pesticide Use by Country")
+    fig = px.line(
+        filtered_data,
+        x="Year",
+        y="Kg_per_ha",
+        color="Country",
+        title="Pesticide Use Trends",
+        labels={"Kg_per_ha": "Pesticide Use (kg/ha)", "Year": "Year"},
+        color_discrete_map=country_colors,
+        height=500
+    )
+    fig.update_layout(
+        hovermode="x unified",
+        legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01),
+        title_font_size=20, xaxis_title_font_size=14, yaxis_title_font_size=14, legend_title_font_size=12
+    )
+    fig.update_traces(line=dict(width=2))
+    st.plotly_chart(fig, use_container_width=True)
+    st.write("**Insight:** Compare pesticide trends among selected countries.")
+
