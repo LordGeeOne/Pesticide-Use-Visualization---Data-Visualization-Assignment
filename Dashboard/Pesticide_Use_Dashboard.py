@@ -188,3 +188,85 @@ elif section == "Average Pesticide Use by Decade":
     st.pyplot(fig4)
     st.write("**Insight:** Shows how pesticide use per hectare changed across decades.")
 
+# -----------------------
+# Section: South Africa Regional Leadership
+# -----------------------
+elif section == "South Africa Regional Leadership":
+    st.subheader("🇿🇦 South Africa: Regional Leadership Analysis")
+    sa_data = filtered_data[filtered_data["Country"]=="South Africa"].copy()
+    regional_avg = filtered_data.groupby("Year")["Kg_per_ha"].mean().reset_index()
+    regional_avg["Country"]="Regional Average"
+    comparison_data = pd.concat([sa_data, regional_avg], ignore_index=True)
+
+    fig, axes = plt.subplots(2,2,figsize=(16,10))
+
+    # 1. SA vs Regional Average
+    ax1 = axes[0,0]
+    for country in comparison_data["Country"].unique():
+        d = comparison_data[comparison_data["Country"]==country]
+        style = "-" if country=="South Africa" else "--"
+        width = 2.5 if country=="South Africa" else 1.5
+        ax1.plot(d["Year"], d["Kg_per_ha"], label=country, linestyle=style, linewidth=width)
+    ax1.set_xlabel("Year", fontsize=14)
+    ax1.set_ylabel("Kg per Ha", fontsize=14)
+    ax1.set_title("South Africa vs Regional Average", fontsize=16, fontweight="bold")
+    ax1.tick_params(axis='x', labelsize=12)
+    ax1.tick_params(axis='y', labelsize=12)
+    ax1.legend(fontsize=10)
+    ax1.grid(alpha=0.3)
+
+    # 2. YoY Change
+    ax2 = axes[0,1]
+    sa_data_sorted = sa_data.sort_values("Year")
+    sa_data_sorted["YoY_Change"] = sa_data_sorted["Kg_per_ha"].pct_change()*100
+    colors = ["green" if x>0 else "red" for x in sa_data_sorted["YoY_Change"].iloc[1:]]
+    ax2.bar(sa_data_sorted["Year"].iloc[1:], sa_data_sorted["YoY_Change"].iloc[1:], color=colors)
+    ax2.set_xlabel("Year", fontsize=14)
+    ax2.set_ylabel("Year-over-Year Change (%)", fontsize=14)
+    ax2.set_title("SA: Annual Growth Rate", fontsize=16, fontweight="bold")
+    ax2.axhline(0, color="black", linewidth=0.5)
+    ax2.tick_params(axis='x', labelsize=12)
+    ax2.tick_params(axis='y', labelsize=12)
+    ax2.grid(axis="y", alpha=0.3)
+
+    # 3. SA pesticide types evolution
+    ax3 = axes[1,0]
+    sa_types = sa_data[sa_data["Pesticide_Type"]!="Pesticides (total)"]
+    for ptype in sa_types["Pesticide_Type"].unique():
+        type_data = sa_types[sa_types["Pesticide_Type"]==ptype]
+        ax3.plot(type_data["Year"], type_data["Tonnes"], label=ptype, marker="o", markersize=3)
+    ax3.set_xlabel("Year", fontsize=14)
+    ax3.set_ylabel("Tonnes", fontsize=14)
+    ax3.set_title("SA: Pesticide Types Evolution", fontsize=16, fontweight="bold")
+    ax3.tick_params(axis='x', labelsize=12)
+    ax3.tick_params(axis='y', labelsize=12)
+    ax3.legend(fontsize=10)
+    ax3.grid(alpha=0.3)
+
+    # 4. Comparison with neighboring countries
+    ax4 = axes[1,1]
+    recent_years = filtered_data[filtered_data["Year"] >= (year_range[1]-4)]
+    recent_avg = recent_years.groupby("Country")["Kg_per_ha"].mean().sort_values()
+    colors_bar = ["#FF6B6B" if c=="South Africa" else "#4ECDC4" for c in recent_avg.index]
+    ax4.barh(recent_avg.index, recent_avg.values, color=colors_bar)
+    ax4.set_xlabel("Average Kg per Ha", fontsize=14)
+    ax4.set_title("Recent Performance (Last 5 Years)", fontsize=16, fontweight="bold")
+    ax4.tick_params(axis='x', labelsize=12)
+    ax4.tick_params(axis='y', labelsize=12)
+    ax4.grid(axis="x", alpha=0.3)
+    for i,(country,value) in enumerate(recent_avg.items()):
+        ax4.text(value+0.05, i, f"{value:.2f}", va="center", fontsize=12)
+
+    plt.tight_layout()
+    st.pyplot(fig)
+    # --- Key Insights ---
+    st.markdown("""
+    ###  Key Insights
+    South Africa leads the region in pesticide usage per hectare, consistently above the regional average since the late 1990s.
+
+    -  Pesticide use **tripled** from 1990 to 2023, reaching ~**3.4 kg/ha**.
+    -  **Herbicides dominate** pesticide use, followed by fungicides; insecticides are least used.
+    -  Growth has been **volatile but resilient**, bouncing back quickly after downturns.
+    -  In the last 5 years, **Eswatini and Botswana surpassed South Africa** in intensity, but SA remains a **top user regionally**.
+    """)
+
