@@ -336,3 +336,26 @@ elif section == "Pesticides Breakdown":
         -  South Africa’s pesticide mix **aligns closely with global trends**, but with slightly **heavier herbicide dependence**.
         """)
 
+# Section: Tonnes vs Kg/ha with Outliers
+elif section == "Tonnes vs Kg/ha with Outliers":
+    st.subheader("📉 Tonnes vs Kg per Hectare with Outliers Highlighted")
+    df = filtered_data[filtered_data["Pesticide_Type"] != "Pesticides (total)"].copy()
+    Q1 = df["Kg_per_ha"].quantile(0.25)
+    Q3 = df["Kg_per_ha"].quantile(0.75)
+    IQR = Q3 - Q1
+    outliers = df[(df["Kg_per_ha"] < (Q1 - 1.5*IQR)) | (df["Kg_per_ha"] > (Q3 + 1.5*IQR))]
+
+    fig8, ax = plt.subplots(figsize=(10,6))
+    sns.scatterplot(x="Tonnes", y="Kg_per_ha", hue="Pesticide_Type", data=df, palette="Set2", ax=ax)
+    ax.scatter(outliers["Tonnes"], outliers["Kg_per_ha"], color="red", label="Outliers", s=60, edgecolor="black")
+    ax.set_title("Tonnes vs Kg per Hectare with Outliers Highlighted", fontsize=16, fontweight='bold')
+    ax.set_xlabel("Tonnes", fontsize=14)
+    ax.set_ylabel("Kg per Ha", fontsize=14)
+    ax.tick_params(axis='x', labelsize=12)
+    ax.tick_params(axis='y', labelsize=12)
+    ax.legend(fontsize=10)
+    ax.grid(alpha=0.3)
+    st.pyplot(fig8)
+    st.write(f"**Correlation:** {df['Tonnes'].corr(df['Kg_per_ha']):.3f}")
+    st.write(f"**Number of detected outliers:** {len(outliers)}")
+    st.dataframe(outliers)
