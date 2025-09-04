@@ -2,6 +2,12 @@
 
 An interactive dashboard visualizing pesticide use trends in Southern Africa (1990–2023). Explore country comparisons, decade averages, pesticide type breakdowns, and outlier detection using Streamlit, Plotly, and Matplotlib.
 
+## 🚀 Live Dashboard
+
+**🔗 [View Live Dashboard](https://pesticide-use-visualization.streamlit.app/)**
+
+> Interactive web application deployed on Streamlit Cloud - no installation required!
+
 ## 📊 Features
 
 ### Interactive Dashboard
