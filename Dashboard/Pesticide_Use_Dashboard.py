@@ -4,6 +4,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 import sqlite3
+import os
 
 # --- Page Config ---
 st.set_page_config(page_title="Pesticide Use in Southern Africa", layout="wide")
@@ -556,16 +557,28 @@ st.markdown("""
 st.title("🌍 Pesticide Use in Southern Africa (1990–2023)")
 
 # --- Load CSV Data with error handling ---
-try:
-    data = pd.read_csv("Pesticide_Cleaned_Data_v3.csv")
-    if data.empty:
-        st.error("❌ The data file is empty. Please check the CSV file.")
-        st.stop()
-except FileNotFoundError:
+# Try different possible paths for the CSV file
+possible_paths = [
+    "Pesticide_Cleaned_Data_v3.csv",  # Current directory (local development)
+    "Dashboard/Pesticide_Cleaned_Data_v3.csv",  # From repository root (Streamlit Cloud)
+    os.path.join("Dashboard", "Pesticide_Cleaned_Data_v3.csv")  # Alternative path construction
+]
+
+data = None
+for path in possible_paths:
+    try:
+        if os.path.exists(path):
+            data = pd.read_csv(path)
+            if data.empty:
+                st.error("❌ The data file is empty. Please check the CSV file.")
+                st.stop()
+            break
+    except Exception as e:
+        continue
+
+if data is None:
     st.error("❌ Data file 'Pesticide_Cleaned_Data_v3.csv' not found. Please ensure the file is in the correct directory.")
-    st.stop()
-except Exception as e:
-    st.error(f"❌ Error loading data: {str(e)}")
+    st.error("🔍 Checked paths: " + ", ".join(possible_paths))
     st.stop()
 
 country_colors = {
